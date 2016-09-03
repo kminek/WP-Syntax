@@ -1,0 +1,7 @@
+{
+    "name": "kminek/wp-syntax",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "*"
+    }
+}
