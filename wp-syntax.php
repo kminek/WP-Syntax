@@ -1,12 +1,14 @@
 <?php
 /*
-Plugin Name: Kminek WP-Syntax
-Plugin URI: http://www.kminek.pl
+Plugin Name: WP-Syntax
+Plugin URI: http://www.connections-pro.com
 Description: Syntax highlighting using <a href="http://qbnz.com/highlighter/">GeSHi</a> supporting a wide range of popular languages.
 Version: 1.0
 Author: Steven A. Zahm
 Author URI: http://www.connections-pro.com
 License: GPL2
+Text Domain: wp_syntax
+Domain Path: /lang
 
 Original Author: Ryan McGeary
 
